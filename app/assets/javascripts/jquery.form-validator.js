@@ -7,7 +7,7 @@
  * @license MIT
  * @version 2.2.82
  */
-(function ($) {
+$(document).ready(function() {
 
   'use strict';
 
@@ -1781,4 +1781,4 @@
     //   errorMessageKey: '' // not used
   });
 
-})(jQuery);
+});
